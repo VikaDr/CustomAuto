@@ -1,0 +1,220 @@
+2018-07-01 19:13:17   INFO [pages.LoginPage] : Login page was opened
+2018-07-01 19:13:17   INFO [pages.LoginPage] : 1@i.ua was inputed in to input 
+2018-07-01 19:34:14   INFO [pages.LoginPage] : Login page was opened
+2018-07-01 19:34:14   INFO [pages.LoginPage] : 1@i.ua was inputed in to input 
+2018-07-01 19:34:24  ERROR [pages.LoginPage] : Can not work with element
+2018-07-01 19:35:53   INFO [pages.LoginPage] : Login page was opened
+2018-07-01 19:35:56   INFO [pages.LoginPage] : 1@i.ua was inputed in to input 
+2018-07-01 19:35:56   INFO [pages.LoginPage] : 111111 was inputed in to input 
+2018-07-01 19:35:56   INFO [pages.MainPage] : Test
+2018-07-01 19:35:56  ERROR [pages.MainPage] : Error
+2018-09-01 18:51:13   INFO [pages.LoginPage] : Login page was opened
+2018-09-01 18:51:13   INFO [pages.LoginPage] : 1@i.ua was inputed in to input 
+2018-09-01 18:51:13   INFO [pages.LoginPage] : 111111 was inputed in to input 
+2018-09-01 18:51:13   INFO [pages.MainPage] : Test
+2018-09-01 18:51:13  ERROR [pages.MainPage] : Error
+2018-09-01 18:57:41   INFO [pages.LoginPage] : Login page was opened
+2018-09-01 18:57:42   INFO [pages.LoginPage] : 1@i.ua was inputed in to input 
+2018-09-01 18:57:42   INFO [pages.LoginPage] : 111111 was inputed in to input 
+2018-09-01 18:57:42   INFO [pages.MainPage] : Test
+2018-09-01 18:57:42  ERROR [pages.MainPage] : Error
+2018-09-01 19:18:30   INFO [pages.LoginPage] : Login page was opened
+2018-09-01 19:18:30   INFO [pages.LoginPage] : 1@i.ua was inputed in to input 
+2018-09-01 19:18:30   INFO [pages.LoginPage] : 111111 was inputed in to input 
+2018-09-01 19:18:30   INFO [pages.MainPage] : Test
+2018-09-01 19:18:30  ERROR [pages.MainPage] : Error
+2018-26-01 19:25:30   INFO [pages.LoginPage] : Login page was opened
+2018-26-01 19:25:40  ERROR [ActionsWithOurElements] : Can not work with element
+2018-26-01 19:32:35   INFO [pages.LoginPage] : Login page was opened
+2018-26-01 19:32:45  ERROR [ActionsWithOurElements] : Can not work with element
+2018-26-01 19:42:18   INFO [pages.LoginPage] : Login page was opened
+2018-26-01 19:42:19   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (2781390f2ea2389772be582986d20981)] -> name: email]
+2018-26-01 19:42:19   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (2781390f2ea2389772be582986d20981)] -> name: password]
+2018-26-01 19:42:19   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (2781390f2ea2389772be582986d20981)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-26-01 19:42:20   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-26-01 19:45:05   INFO [pages.LoginPage] : Login page was opened
+2018-26-01 19:45:15  ERROR [ActionsWithOurElements] : Can not work with element
+2018-26-01 19:59:05   INFO [pages.LoginPage] : Login page was opened
+2018-26-01 19:59:16  ERROR [ActionsWithOurElements] : Can not work with element
+2018-26-01 20:01:44   INFO [pages.LoginPage] : Login page was opened
+2018-26-01 20:01:45   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (40e483c09e0ea35ab3438056550e0906)] -> name: email]
+2018-26-01 20:01:45   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (40e483c09e0ea35ab3438056550e0906)] -> name: password]
+2018-26-01 20:01:45   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (40e483c09e0ea35ab3438056550e0906)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-26-01 20:01:46   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-26-01 20:02:52   INFO [pages.LoginPage] : Login page was opened
+2018-26-01 20:02:53   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (c0d8c6d212a6bca952ce8c91e1154b7c)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-26-01 20:02:53   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (c0d8c6d212a6bca952ce8c91e1154b7c)] -> name: email]
+2018-26-01 20:02:53   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (c0d8c6d212a6bca952ce8c91e1154b7c)] -> name: password]
+2018-26-01 20:02:53   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (c0d8c6d212a6bca952ce8c91e1154b7c)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-26-01 20:02:54   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-26-01 20:50:34   INFO [pages.LoginPage] : Login page was opened
+2018-26-01 20:50:35   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (00745d3cefcb9b3443c4f1638dc81514)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-26-01 20:50:35   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (00745d3cefcb9b3443c4f1638dc81514)] -> name: email]
+2018-26-01 20:50:35   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (00745d3cefcb9b3443c4f1638dc81514)] -> name: password]
+2018-26-01 20:50:35   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (00745d3cefcb9b3443c4f1638dc81514)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-26-01 20:50:36   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-27-01 18:19:44   INFO [pages.LoginPage] : Login page was opened
+2018-27-01 18:19:44   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (d60d9ce61addd4bc14640d9e55bb1fef)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-27-01 18:19:44   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (d60d9ce61addd4bc14640d9e55bb1fef)] -> name: email]
+2018-27-01 18:19:44   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (d60d9ce61addd4bc14640d9e55bb1fef)] -> name: password]
+2018-27-01 18:19:44   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (d60d9ce61addd4bc14640d9e55bb1fef)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-27-01 18:19:45   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-27-01 22:05:22   INFO [pages.LoginPage] : Login page was opened
+2018-27-01 22:05:22   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (737c24d8472176112a16298caf63dde3)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-27-01 22:05:22   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (737c24d8472176112a16298caf63dde3)] -> name: email]
+2018-27-01 22:05:22   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (737c24d8472176112a16298caf63dde3)] -> name: password]
+2018-27-01 22:05:22   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (737c24d8472176112a16298caf63dde3)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-27-01 22:05:24   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-27-01 22:11:33   INFO [pages.OrderFormPage] : Login page was opened
+2018-27-01 22:11:33   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (004f82e7f0f90615732b46ed6e85fe48)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-27-01 22:11:33   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (004f82e7f0f90615732b46ed6e85fe48)] -> name: email]
+2018-27-01 22:11:33   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (004f82e7f0f90615732b46ed6e85fe48)] -> name: password]
+2018-27-01 22:11:34   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (004f82e7f0f90615732b46ed6e85fe48)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-27-01 22:11:35   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-27-01 22:11:35   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (004f82e7f0f90615732b46ed6e85fe48)] -> xpath: .//a[@href='/dashboard/orders/create']]
+2018-27-01 22:28:45   INFO [pages.OrderFormPage] : Login page was opened
+2018-27-01 22:28:45   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (cdb0d94872721161a19ac4bc12ed0d30)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-27-01 22:28:45   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (cdb0d94872721161a19ac4bc12ed0d30)] -> name: email]
+2018-27-01 22:28:46   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (cdb0d94872721161a19ac4bc12ed0d30)] -> name: password]
+2018-27-01 22:28:46   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (cdb0d94872721161a19ac4bc12ed0d30)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-27-01 22:28:48   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-27-01 22:28:48   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (cdb0d94872721161a19ac4bc12ed0d30)] -> xpath: .//a[@href='/dashboard/orders/create']]
+2018-27-01 22:28:48  ERROR [ActionsWithOurElements] : Can not work with element
+2018-27-01 22:38:16   INFO [pages.OrderFormPage] : Login page was opened
+2018-27-01 22:38:16   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (79f42cc6db72bd19709af9e94cc308db)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-27-01 22:38:16   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (79f42cc6db72bd19709af9e94cc308db)] -> name: email]
+2018-27-01 22:38:16   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (79f42cc6db72bd19709af9e94cc308db)] -> name: password]
+2018-27-01 22:38:17   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (79f42cc6db72bd19709af9e94cc308db)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-27-01 22:38:18   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-27-01 22:38:19   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (79f42cc6db72bd19709af9e94cc308db)] -> xpath: .//a[@href='/dashboard/orders/create']]
+2018-27-01 22:38:29  ERROR [ActionsWithOurElements] : Can not work with element
+2018-27-01 22:40:59   INFO [pages.OrderFormPage] : Login page was opened
+2018-27-01 22:40:59   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (d73b31a7d9ce8d0a822ef0d42ccd2170)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-27-01 22:41:00   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (d73b31a7d9ce8d0a822ef0d42ccd2170)] -> name: email]
+2018-27-01 22:41:00   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (d73b31a7d9ce8d0a822ef0d42ccd2170)] -> name: password]
+2018-27-01 22:41:00   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (d73b31a7d9ce8d0a822ef0d42ccd2170)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-27-01 22:41:07   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-27-01 22:41:08   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (d73b31a7d9ce8d0a822ef0d42ccd2170)] -> xpath: .//a[@href='/dashboard/orders/create']]
+2018-27-01 22:41:08  ERROR [ActionsWithOurElements] : Can not work with element
+2018-27-01 22:55:58   INFO [pages.OrderFormPage] : Login page was opened
+2018-27-01 22:55:58   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (aed0ac6fffaae769d10201a46ec7a35c)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-27-01 22:55:58   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (aed0ac6fffaae769d10201a46ec7a35c)] -> name: email]
+2018-27-01 22:55:58   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (aed0ac6fffaae769d10201a46ec7a35c)] -> name: password]
+2018-27-01 22:55:59   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (aed0ac6fffaae769d10201a46ec7a35c)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-27-01 22:56:01   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-27-01 22:56:01   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (aed0ac6fffaae769d10201a46ec7a35c)] -> xpath: .//a[@href='/dashboard/orders/create']]
+2018-27-01 22:56:21  ERROR [ActionsWithOurElements] : Can not work with element
+2018-27-01 23:02:06   INFO [pages.OrderFormPage] : Login page was opened
+2018-27-01 23:02:07   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (73843ca7c28b464aa86243c2c8e90060)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-27-01 23:02:07   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (73843ca7c28b464aa86243c2c8e90060)] -> name: email]
+2018-27-01 23:02:07   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (73843ca7c28b464aa86243c2c8e90060)] -> name: password]
+2018-27-01 23:02:07   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (73843ca7c28b464aa86243c2c8e90060)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-27-01 23:02:08   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-27-01 23:02:09   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (73843ca7c28b464aa86243c2c8e90060)] -> xpath: .//a[@href='/dashboard/orders/create']]
+2018-27-01 23:02:40  ERROR [ActionsWithOurElements] : Can not work with element
+2018-27-01 23:03:58   INFO [pages.OrderFormPage] : Login page was opened
+2018-27-01 23:03:59   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (b97409b5c0a3e0722d86946a3752e927)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-27-01 23:03:59   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (b97409b5c0a3e0722d86946a3752e927)] -> name: email]
+2018-27-01 23:03:59   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (b97409b5c0a3e0722d86946a3752e927)] -> name: password]
+2018-27-01 23:03:59   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (b97409b5c0a3e0722d86946a3752e927)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-27-01 23:04:01   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-27-01 23:04:01   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (b97409b5c0a3e0722d86946a3752e927)] -> xpath: .//a[@href='/dashboard/orders/create']]
+2018-27-01 23:04:01   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (b97409b5c0a3e0722d86946a3752e927)] -> class name: Select-placeholder]
+2018-27-01 23:09:06   INFO [pages.OrderFormPage] : Login page was opened
+2018-27-01 23:09:06   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (560195eef77277119c67827d837d0e8f)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-27-01 23:09:07   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (560195eef77277119c67827d837d0e8f)] -> name: email]
+2018-27-01 23:09:07   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (560195eef77277119c67827d837d0e8f)] -> name: password]
+2018-27-01 23:09:07   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (560195eef77277119c67827d837d0e8f)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-27-01 23:09:09   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-27-01 23:09:09   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (560195eef77277119c67827d837d0e8f)] -> xpath: .//a[@href='/dashboard/orders/create']]
+2018-27-01 23:09:09   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (560195eef77277119c67827d837d0e8f)] -> class name: Select-placeholder]
+2018-27-01 23:09:30  ERROR [ActionsWithOurElements] : Can not work with element
+2018-27-01 23:11:54   INFO [pages.OrderFormPage] : Login page was opened
+2018-27-01 23:11:55   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (6b7ad87c34b5d34de9807b44acd2fe25)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-27-01 23:11:55   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (6b7ad87c34b5d34de9807b44acd2fe25)] -> name: email]
+2018-27-01 23:11:55   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (6b7ad87c34b5d34de9807b44acd2fe25)] -> name: password]
+2018-27-01 23:11:55   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (6b7ad87c34b5d34de9807b44acd2fe25)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-27-01 23:11:56   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-27-01 23:11:57   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (6b7ad87c34b5d34de9807b44acd2fe25)] -> xpath: .//a[@href='/dashboard/orders/create']]
+2018-27-01 23:11:57   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (6b7ad87c34b5d34de9807b44acd2fe25)] -> class name: Select-placeholder]
+2018-27-01 23:12:19  ERROR [ActionsWithOurElements] : Can not work with element
+2018-27-01 23:12:39   INFO [pages.OrderFormPage] : Login page was opened
+2018-27-01 23:12:39   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (66847ff49b6a2b499acfcc34d3bf53cc)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-27-01 23:12:39   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (66847ff49b6a2b499acfcc34d3bf53cc)] -> name: email]
+2018-27-01 23:12:39   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (66847ff49b6a2b499acfcc34d3bf53cc)] -> name: password]
+2018-27-01 23:12:39   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (66847ff49b6a2b499acfcc34d3bf53cc)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-27-01 23:12:40   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-27-01 23:12:41   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (66847ff49b6a2b499acfcc34d3bf53cc)] -> xpath: .//a[@href='/dashboard/orders/create']]
+2018-27-01 23:12:41   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (66847ff49b6a2b499acfcc34d3bf53cc)] -> class name: Select-placeholder]
+2018-27-01 23:13:00  ERROR [ActionsWithOurElements] : Can not work with element
+2018-27-01 23:13:48   INFO [pages.OrderFormPage] : Login page was opened
+2018-27-01 23:13:48   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (c70fdb39fac87da2087506013b9185f8)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-27-01 23:13:48   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (c70fdb39fac87da2087506013b9185f8)] -> name: email]
+2018-27-01 23:13:49   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (c70fdb39fac87da2087506013b9185f8)] -> name: password]
+2018-27-01 23:13:49   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (c70fdb39fac87da2087506013b9185f8)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-27-01 23:13:51   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-27-01 23:13:51   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (c70fdb39fac87da2087506013b9185f8)] -> xpath: .//a[@href='/dashboard/orders/create']]
+2018-27-01 23:13:51   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (c70fdb39fac87da2087506013b9185f8)] -> class name: Select-placeholder]
+2018-27-01 23:14:22  ERROR [ActionsWithOurElements] : Can not work with element
+2018-27-01 23:17:05   INFO [pages.OrderFormPage] : Login page was opened
+2018-27-01 23:17:05   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (5a811f38901359f78c2566ef87b4557a)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-27-01 23:17:05   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (5a811f38901359f78c2566ef87b4557a)] -> name: email]
+2018-27-01 23:17:06   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (5a811f38901359f78c2566ef87b4557a)] -> name: password]
+2018-27-01 23:17:06   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (5a811f38901359f78c2566ef87b4557a)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-27-01 23:17:07   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-27-01 23:17:07   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (5a811f38901359f78c2566ef87b4557a)] -> xpath: .//a[@href='/dashboard/orders/create']]
+2018-27-01 23:17:07   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (5a811f38901359f78c2566ef87b4557a)] -> class name: Select-placeholder]
+2018-27-01 23:17:38  ERROR [ActionsWithOurElements] : Can not work with element
+2018-27-01 23:18:02   INFO [pages.OrderFormPage] : Login page was opened
+2018-27-01 23:18:02   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (65b898743fb676a5e761abbdaf3e0db4)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-27-01 23:18:02   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (65b898743fb676a5e761abbdaf3e0db4)] -> name: email]
+2018-27-01 23:18:03   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (65b898743fb676a5e761abbdaf3e0db4)] -> name: password]
+2018-27-01 23:18:03   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (65b898743fb676a5e761abbdaf3e0db4)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-27-01 23:18:04   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-27-01 23:18:04   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (65b898743fb676a5e761abbdaf3e0db4)] -> xpath: .//a[@href='/dashboard/orders/create']]
+2018-27-01 23:18:05   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (65b898743fb676a5e761abbdaf3e0db4)] -> class name: Select-placeholder]
+2018-27-01 23:32:58   INFO [pages.OrderFormPage] : Login page was opened
+2018-27-01 23:32:59   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (ee691d01d8c7d1c6eb721f34a9dc711a)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-27-01 23:32:59   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (ee691d01d8c7d1c6eb721f34a9dc711a)] -> name: email]
+2018-27-01 23:32:59   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (ee691d01d8c7d1c6eb721f34a9dc711a)] -> name: password]
+2018-27-01 23:32:59   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (ee691d01d8c7d1c6eb721f34a9dc711a)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-27-01 23:33:01   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-27-01 23:33:01   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (ee691d01d8c7d1c6eb721f34a9dc711a)] -> xpath: .//a[@href='/dashboard/orders/create']]
+2018-27-01 23:33:01  ERROR [ActionsWithOurElements] : Can not work with element
+2018-27-01 23:34:36   INFO [pages.OrderFormPage] : Login page was opened
+2018-27-01 23:34:36   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (d008225ddb1d65a9111e39d53f0045cc)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-27-01 23:34:37   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (d008225ddb1d65a9111e39d53f0045cc)] -> name: email]
+2018-27-01 23:34:37   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (d008225ddb1d65a9111e39d53f0045cc)] -> name: password]
+2018-27-01 23:34:37   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (d008225ddb1d65a9111e39d53f0045cc)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-27-01 23:34:38   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-27-01 23:34:39   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (d008225ddb1d65a9111e39d53f0045cc)] -> xpath: .//a[@href='/dashboard/orders/create']]
+2018-27-01 23:34:39  ERROR [ActionsWithOurElements] : Can not work with element
+2018-27-01 23:39:05   INFO [pages.OrderFormPage] : Login page was opened
+2018-27-01 23:39:05   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (b59b275512cf0b490fb47f983d076f39)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-27-01 23:39:05   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (b59b275512cf0b490fb47f983d076f39)] -> name: email]
+2018-27-01 23:39:06   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (b59b275512cf0b490fb47f983d076f39)] -> name: password]
+2018-27-01 23:39:06   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (b59b275512cf0b490fb47f983d076f39)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-27-01 23:39:07   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-27-01 23:39:07   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (b59b275512cf0b490fb47f983d076f39)] -> xpath: .//a[@href='/dashboard/orders/create']]
+2018-27-01 23:39:08  ERROR [ActionsWithOurElements] : Can not work with element
+2018-28-01 13:30:06   INFO [pages.LoginPage] : Login page was opened
+2018-28-01 13:30:06   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (249208e0f74273b66f892ce32757d454)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-28-01 13:30:06   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (249208e0f74273b66f892ce32757d454)] -> name: email]
+2018-28-01 13:30:07   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (249208e0f74273b66f892ce32757d454)] -> name: password]
+2018-28-01 13:30:07   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (249208e0f74273b66f892ce32757d454)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-28-01 13:30:08   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-28-01 13:30:08   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (249208e0f74273b66f892ce32757d454)] -> xpath: .//a[@href='/dashboard/orders/create']]
+2018-28-01 13:30:08  ERROR [ActionsWithOurElements] : Can not work with element
+2018-28-01 23:04:20   INFO [pages.LoginPage] : Login page was opened
+2018-28-01 23:04:20   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (29d10bcb861f05f219dec90db34fe6e8)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-28-01 23:04:20   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (29d10bcb861f05f219dec90db34fe6e8)] -> name: email]
+2018-28-01 23:04:20   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (29d10bcb861f05f219dec90db34fe6e8)] -> name: password]
+2018-28-01 23:04:20   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (29d10bcb861f05f219dec90db34fe6e8)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-28-01 23:04:21   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-28-01 23:06:51   INFO [pages.LoginPage] : Login page was opened
+2018-28-01 23:06:52   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (649f8044032ca367e645214f4d0d7fc2)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-28-01 23:06:52   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (649f8044032ca367e645214f4d0d7fc2)] -> name: email]
+2018-28-01 23:06:52   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (649f8044032ca367e645214f4d0d7fc2)] -> name: password]
+2018-28-01 23:06:52   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (649f8044032ca367e645214f4d0d7fc2)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-28-01 23:06:53   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-28-01 23:06:53  ERROR [ActionsWithOurElements] : Can not work with element
