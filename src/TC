@@ -29,10 +29,9 @@ Step to reproduce:
 3. Кликнуть по кнопке "Sign in".
 4. Кликнуть на кнопку "Free Inquiry".
 5. Заполнить обязательные поля формы "Type of paper" и "Discipline".
-6. Запомнить поле "Topic" именем ордера.
 6. Кликнуть на кнопку "Place Free Inquiry"
 7. Кликнуть на кнопке "My Orders".
-8. Проверить создался ли ордер с подобным именем.
+8. Проверить создался ли ордер с именем "Writer’s choice".
 
 Expected result:
 

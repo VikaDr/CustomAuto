@@ -386,3 +386,164 @@
 2018-04-02 13:13:43   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (a2779a9f18a82594ee0e7fc9ad1679b8)] -> xpath: .//*/button[contains(text(),'Sign')]]
 2018-04-02 13:13:44   INFO [ActionsWithOurElements] : Is element present ? - true
 2018-04-02 13:13:44   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (a2779a9f18a82594ee0e7fc9ad1679b8)] -> xpath: .//*[text()='Free Inquiry']]
+2018-04-02 13:28:59   INFO [pages.LoginPage] : Login page was opened
+2018-04-02 13:28:59   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (6e6af1cbb5adc84fd6d593addbb0d498)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-04-02 13:29:00   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (6e6af1cbb5adc84fd6d593addbb0d498)] -> name: email]
+2018-04-02 13:29:00   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (6e6af1cbb5adc84fd6d593addbb0d498)] -> name: password]
+2018-04-02 13:29:00   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (6e6af1cbb5adc84fd6d593addbb0d498)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-04-02 13:29:01   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-04-02 13:29:02   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (6e6af1cbb5adc84fd6d593addbb0d498)] -> xpath: .//*[text()='Free Inquiry']]
+2018-04-02 13:29:02   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (6e6af1cbb5adc84fd6d593addbb0d498)] -> xpath: .//*[text()='Type of paper']/../div]
+2018-04-02 13:32:14   INFO [pages.LoginPage] : Login page was opened
+2018-04-02 13:32:14   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (12316b004f641232872f9a40bcbd922d)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-04-02 13:32:15   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (12316b004f641232872f9a40bcbd922d)] -> name: email]
+2018-04-02 13:32:15   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (12316b004f641232872f9a40bcbd922d)] -> name: password]
+2018-04-02 13:32:15   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (12316b004f641232872f9a40bcbd922d)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-04-02 13:32:16   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-04-02 13:32:16   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (12316b004f641232872f9a40bcbd922d)] -> xpath: .//*[text()='Free Inquiry']]
+2018-04-02 13:32:16   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (12316b004f641232872f9a40bcbd922d)] -> xpath: .//*[text()='Type of paper']/../div]
+2018-04-02 13:32:24   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (12316b004f641232872f9a40bcbd922d)] -> xpath: .//*[text()='Essay (any type)']]
+2018-04-02 13:32:50   INFO [pages.LoginPage] : Login page was opened
+2018-04-02 13:32:51   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (dafce6a774752a22650fd7255a8c9684)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-04-02 13:32:51   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (dafce6a774752a22650fd7255a8c9684)] -> name: email]
+2018-04-02 13:32:51   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (dafce6a774752a22650fd7255a8c9684)] -> name: password]
+2018-04-02 13:32:51   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (dafce6a774752a22650fd7255a8c9684)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-04-02 13:32:52   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-04-02 13:32:53   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (dafce6a774752a22650fd7255a8c9684)] -> xpath: .//*[text()='Free Inquiry']]
+2018-04-02 13:32:53   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (dafce6a774752a22650fd7255a8c9684)] -> xpath: .//*[text()='Type of paper']/../div]
+2018-04-02 13:33:23  ERROR [ActionsWithOurElements] : Can not work with element
+2018-04-02 13:37:32   INFO [pages.LoginPage] : Login page was opened
+2018-04-02 13:37:32   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (200ed1531763ddfebfcfbb740a0b6143)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-04-02 13:37:32   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (200ed1531763ddfebfcfbb740a0b6143)] -> name: email]
+2018-04-02 13:37:33   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (200ed1531763ddfebfcfbb740a0b6143)] -> name: password]
+2018-04-02 13:37:33   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (200ed1531763ddfebfcfbb740a0b6143)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-04-02 13:37:34   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-04-02 13:37:34   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (200ed1531763ddfebfcfbb740a0b6143)] -> xpath: .//*[text()='Free Inquiry']]
+2018-04-02 13:38:05  ERROR [ActionsWithOurElements] : Can not work with element
+2018-04-02 13:38:38   INFO [pages.LoginPage] : Login page was opened
+2018-04-02 13:38:38   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (b14b5a427292667c541f704ce36ddb02)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-04-02 13:38:39   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (b14b5a427292667c541f704ce36ddb02)] -> name: email]
+2018-04-02 13:38:39   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (b14b5a427292667c541f704ce36ddb02)] -> name: password]
+2018-04-02 13:38:39   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (b14b5a427292667c541f704ce36ddb02)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-04-02 13:38:40   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-04-02 13:38:40   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (b14b5a427292667c541f704ce36ddb02)] -> xpath: .//*[text()='Free Inquiry']]
+2018-04-02 13:38:40   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (b14b5a427292667c541f704ce36ddb02)] -> xpath: .//*[text()='Type of paper']/../div]
+2018-04-02 13:38:43   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (b14b5a427292667c541f704ce36ddb02)] -> xpath: .//*[text()='Essay (any type)']]
+2018-04-02 13:39:21   INFO [pages.LoginPage] : Login page was opened
+2018-04-02 13:39:22   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (f8fc8bdb72220e4ca53e1fa209669f0f)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-04-02 13:39:22   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (f8fc8bdb72220e4ca53e1fa209669f0f)] -> name: email]
+2018-04-02 13:39:22   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (f8fc8bdb72220e4ca53e1fa209669f0f)] -> name: password]
+2018-04-02 13:39:22   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (f8fc8bdb72220e4ca53e1fa209669f0f)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-04-02 13:39:23   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-04-02 13:39:23   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (f8fc8bdb72220e4ca53e1fa209669f0f)] -> xpath: .//*[text()='Free Inquiry']]
+2018-04-02 13:39:23   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (f8fc8bdb72220e4ca53e1fa209669f0f)] -> xpath: .//*[text()='Type of paper']/../div]
+2018-04-02 13:39:46  ERROR [ActionsWithOurElements] : Can not work with element
+2018-04-02 13:48:15   INFO [pages.LoginPage] : Login page was opened
+2018-04-02 13:48:15   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (1abdf4ef54e4a19e00ff1807030ea90e)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-04-02 13:48:15   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (1abdf4ef54e4a19e00ff1807030ea90e)] -> name: email]
+2018-04-02 13:48:15   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (1abdf4ef54e4a19e00ff1807030ea90e)] -> name: password]
+2018-04-02 13:48:15   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (1abdf4ef54e4a19e00ff1807030ea90e)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-04-02 13:48:16   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-04-02 13:48:16   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (1abdf4ef54e4a19e00ff1807030ea90e)] -> xpath: .//*[text()='Free Inquiry']]
+2018-04-02 13:48:37  ERROR [ActionsWithOurElements] : Can not work with element
+2018-04-02 13:49:39   INFO [pages.LoginPage] : Login page was opened
+2018-04-02 13:49:39   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (17d5e15971eeb0960d3d6c2d763101d7)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-04-02 13:49:39   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (17d5e15971eeb0960d3d6c2d763101d7)] -> name: email]
+2018-04-02 13:49:39   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (17d5e15971eeb0960d3d6c2d763101d7)] -> name: password]
+2018-04-02 13:49:40   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (17d5e15971eeb0960d3d6c2d763101d7)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-04-02 13:49:41   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-04-02 13:49:41   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (17d5e15971eeb0960d3d6c2d763101d7)] -> xpath: .//*[text()='Free Inquiry']]
+2018-04-02 13:49:41   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (17d5e15971eeb0960d3d6c2d763101d7)] -> xpath: .//*[text()='Type of paper']/../div]
+2018-04-02 13:50:01  ERROR [ActionsWithOurElements] : Can not work with element
+2018-04-02 13:50:37   INFO [pages.LoginPage] : Login page was opened
+2018-04-02 13:50:37   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (5ad61fc8a4630553d231907f68266386)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-04-02 13:50:37   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (5ad61fc8a4630553d231907f68266386)] -> name: email]
+2018-04-02 13:50:37   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (5ad61fc8a4630553d231907f68266386)] -> name: password]
+2018-04-02 13:50:37   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (5ad61fc8a4630553d231907f68266386)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-04-02 13:50:38   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-04-02 13:50:38   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (5ad61fc8a4630553d231907f68266386)] -> xpath: .//*[text()='Free Inquiry']]
+2018-04-02 13:50:38   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (5ad61fc8a4630553d231907f68266386)] -> xpath: .//*[text()='Type of paper']/../div]
+2018-04-02 13:50:54   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (5ad61fc8a4630553d231907f68266386)] -> xpath: .//*[text()='Essay (any type)']]
+2018-04-02 13:52:22   INFO [pages.LoginPage] : Login page was opened
+2018-04-02 13:52:22   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (2ce703f8120a5ab20e76dc2be7e927b4)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-04-02 13:52:22   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (2ce703f8120a5ab20e76dc2be7e927b4)] -> name: email]
+2018-04-02 13:52:22   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (2ce703f8120a5ab20e76dc2be7e927b4)] -> name: password]
+2018-04-02 13:52:23   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (2ce703f8120a5ab20e76dc2be7e927b4)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-04-02 13:52:23   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-04-02 13:52:24   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (2ce703f8120a5ab20e76dc2be7e927b4)] -> xpath: .//*[text()='Free Inquiry']]
+2018-04-02 13:52:44  ERROR [ActionsWithOurElements] : Can not work with element
+2018-04-02 13:57:49   INFO [pages.LoginPage] : Login page was opened
+2018-04-02 13:57:49   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (987c358e6efaf59da0582df426530d36)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-04-02 13:57:49   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (987c358e6efaf59da0582df426530d36)] -> name: email]
+2018-04-02 13:57:50   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (987c358e6efaf59da0582df426530d36)] -> name: password]
+2018-04-02 13:57:50   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (987c358e6efaf59da0582df426530d36)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-04-02 13:57:50   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-04-02 13:57:51   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (987c358e6efaf59da0582df426530d36)] -> xpath: .//*[text()='Free Inquiry']]
+2018-04-02 13:57:51   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (987c358e6efaf59da0582df426530d36)] -> xpath: .//*[text()='Type of paper']/../div]
+2018-04-02 13:57:52   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (987c358e6efaf59da0582df426530d36)] -> xpath: .//*[text()='Essay (any type)']]
+2018-04-02 13:57:52   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (987c358e6efaf59da0582df426530d36)] -> xpath: .//*[text()='Discipline']/../div]
+2018-04-02 13:57:53   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (987c358e6efaf59da0582df426530d36)] -> xpath: .//*[text()='English 101']]
+2018-04-02 14:43:51   INFO [pages.LoginPage] : Login page was opened
+2018-04-02 14:43:51   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (90790dca95d15c4e8bb736b962bf5cdf)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-04-02 14:43:51   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (90790dca95d15c4e8bb736b962bf5cdf)] -> name: email]
+2018-04-02 14:43:51   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (90790dca95d15c4e8bb736b962bf5cdf)] -> name: password]
+2018-04-02 14:43:52   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (90790dca95d15c4e8bb736b962bf5cdf)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-04-02 14:43:52   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-04-02 14:43:53   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (90790dca95d15c4e8bb736b962bf5cdf)] -> xpath: .//*[text()='Free Inquiry']]
+2018-04-02 14:43:53   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (90790dca95d15c4e8bb736b962bf5cdf)] -> xpath: .//*[text()='Type of paper']/../div]
+2018-04-02 14:43:59   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (90790dca95d15c4e8bb736b962bf5cdf)] -> xpath: .//*[text()='Essay (any type)']]
+2018-04-02 14:43:59   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (90790dca95d15c4e8bb736b962bf5cdf)] -> xpath: .//*[text()='Discipline']/../div]
+2018-04-02 14:44:00   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (90790dca95d15c4e8bb736b962bf5cdf)] -> xpath: .//*[text()='English 101']]
+2018-04-02 14:44:00   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (90790dca95d15c4e8bb736b962bf5cdf)] -> xpath: .//*[text()='Place Free Inquiry']]
+2018-04-02 14:52:29   INFO [pages.LoginPage] : Login page was opened
+2018-04-02 14:52:29   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (c99037abcd89cbbe23323a9e7a3416ef)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-04-02 14:52:29   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (c99037abcd89cbbe23323a9e7a3416ef)] -> name: email]
+2018-04-02 14:52:30   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (c99037abcd89cbbe23323a9e7a3416ef)] -> name: password]
+2018-04-02 14:52:30   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (c99037abcd89cbbe23323a9e7a3416ef)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-04-02 14:52:30   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-04-02 14:52:31   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (c99037abcd89cbbe23323a9e7a3416ef)] -> xpath: .//*[text()='Free Inquiry']]
+2018-04-02 14:52:31   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (c99037abcd89cbbe23323a9e7a3416ef)] -> xpath: .//*[text()='Type of paper']/../div]
+2018-04-02 14:52:32   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (c99037abcd89cbbe23323a9e7a3416ef)] -> xpath: .//*[text()='Essay (any type)']]
+2018-04-02 14:52:32   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (c99037abcd89cbbe23323a9e7a3416ef)] -> xpath: .//*[text()='Discipline']/../div]
+2018-04-02 14:52:33   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (c99037abcd89cbbe23323a9e7a3416ef)] -> xpath: .//*[text()='English 101']]
+2018-04-02 14:52:33   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (c99037abcd89cbbe23323a9e7a3416ef)] -> xpath: .//*[text()='Place Free Inquiry']]
+2018-04-02 14:52:33   INFO [ActionsWithOurElements] : Is element present ? - false
+2018-04-02 14:55:28   INFO [pages.LoginPage] : Login page was opened
+2018-04-02 14:55:29   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (57cf6d856f6d265ccfb5970e5d0987fd)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-04-02 14:55:29   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (57cf6d856f6d265ccfb5970e5d0987fd)] -> name: email]
+2018-04-02 14:55:29   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (57cf6d856f6d265ccfb5970e5d0987fd)] -> name: password]
+2018-04-02 14:55:29   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (57cf6d856f6d265ccfb5970e5d0987fd)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-04-02 14:55:30   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-04-02 14:55:30   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (57cf6d856f6d265ccfb5970e5d0987fd)] -> xpath: .//*[text()='Free Inquiry']]
+2018-04-02 14:55:30   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (57cf6d856f6d265ccfb5970e5d0987fd)] -> xpath: .//*[text()='Type of paper']/../div]
+2018-04-02 14:55:31   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (57cf6d856f6d265ccfb5970e5d0987fd)] -> xpath: .//*[text()='Essay (any type)']]
+2018-04-02 14:55:32   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (57cf6d856f6d265ccfb5970e5d0987fd)] -> xpath: .//*[text()='Discipline']/../div]
+2018-04-02 14:55:32   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (57cf6d856f6d265ccfb5970e5d0987fd)] -> xpath: .//*[text()='English 101']]
+2018-04-02 14:55:33   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (57cf6d856f6d265ccfb5970e5d0987fd)] -> xpath: .//*[text()='Place Free Inquiry']]
+2018-04-02 14:55:33   INFO [ActionsWithOurElements] : Is element present ? - false
+2018-04-02 14:57:04   INFO [pages.LoginPage] : Login page was opened
+2018-04-02 14:57:05   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (70a739ab753060ef3974783737cbe0e6)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-04-02 14:57:05   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (70a739ab753060ef3974783737cbe0e6)] -> name: email]
+2018-04-02 14:57:05   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (70a739ab753060ef3974783737cbe0e6)] -> name: password]
+2018-04-02 14:57:05   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (70a739ab753060ef3974783737cbe0e6)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-04-02 14:57:06   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-04-02 14:57:06   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (70a739ab753060ef3974783737cbe0e6)] -> xpath: .//*[text()='Free Inquiry']]
+2018-04-02 14:57:06   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (70a739ab753060ef3974783737cbe0e6)] -> xpath: .//*[text()='Type of paper']/../div]
+2018-04-02 14:57:09   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (70a739ab753060ef3974783737cbe0e6)] -> xpath: .//*[text()='Essay (any type)']]
+2018-04-02 14:57:09   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (70a739ab753060ef3974783737cbe0e6)] -> xpath: .//*[text()='Discipline']/../div]
+2018-04-02 14:57:09   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (70a739ab753060ef3974783737cbe0e6)] -> xpath: .//*[text()='English 101']]
+2018-04-02 14:57:09   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (70a739ab753060ef3974783737cbe0e6)] -> xpath: .//*[text()='Place Free Inquiry']]
+2018-04-02 14:57:15   INFO [ActionsWithOurElements] : Is element present ? - false
+2018-04-02 15:00:28   INFO [pages.LoginPage] : Login page was opened
+2018-04-02 15:00:28   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (32d5b9ed6273731e0b696271606f2306)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-04-02 15:00:29   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (32d5b9ed6273731e0b696271606f2306)] -> name: email]
+2018-04-02 15:00:29   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (32d5b9ed6273731e0b696271606f2306)] -> name: password]
+2018-04-02 15:00:29   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (32d5b9ed6273731e0b696271606f2306)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-04-02 15:00:30   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-04-02 15:00:30   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (32d5b9ed6273731e0b696271606f2306)] -> xpath: .//*[text()='Free Inquiry']]
+2018-04-02 15:00:30   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (32d5b9ed6273731e0b696271606f2306)] -> xpath: .//*[text()='Type of paper']/../div]
+2018-04-02 15:00:31   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (32d5b9ed6273731e0b696271606f2306)] -> xpath: .//*[text()='Essay (any type)']]
+2018-04-02 15:00:31   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (32d5b9ed6273731e0b696271606f2306)] -> xpath: .//*[text()='Discipline']/../div]
+2018-04-02 15:00:32   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (32d5b9ed6273731e0b696271606f2306)] -> xpath: .//*[text()='English 101']]
+2018-04-02 15:00:32   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (32d5b9ed6273731e0b696271606f2306)] -> xpath: .//*[text()='Place Free Inquiry']]
+2018-04-02 15:00:35   INFO [ActionsWithOurElements] : Is element present ? - true
