@@ -10,25 +10,25 @@ import static libs.ActionsWithOurElements.clickOnElement;
 import static libs.ActionsWithOurElements.enterTextIntoInput;
 import static libs.ActionsWithOurElements.selectOptionsInDropDown;
 
-public class OrderFormPage extends ParentPage {
+public class InquiryPage extends ParentPage {
 
-    @FindBy(xpath = ".//a[@href='/dashboard/orders/create']")
-    private WebElement buttonNewOrder;
+    @FindBy(xpath = ".//*[text()='Free Inquiry']")
+    private WebElement buttonFreeInquiry;
 
     @FindBy(className ="Select-placeholder")
     private WebElement dropDownPaperType;
 
 
-    public OrderFormPage(WebDriver webDriver) {
-        super(webDriver,"/dashboard/orders/create");
+    public InquiryPage(WebDriver webDriver) {
+        super(webDriver,"/dashboard/inquiry");
     }
 
-    public void clickOnNewOrderButton(){
-        clickOnElement(buttonNewOrder);
+    public void clickOnFreeInquiryButton(){
+        clickOnElement(buttonFreeInquiry);
     }
 
     public void choosePaperTypeOption(String option){
-        selectOptionsInDropDown(dropDownPaperType, option);
+
     }
 
 }

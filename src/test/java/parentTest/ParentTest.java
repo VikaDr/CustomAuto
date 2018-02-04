@@ -5,7 +5,7 @@ import org.junit.Before;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import pages.CustomerPage;
-import pages.OrderFormPage;
+import pages.InquiryPage;
 import pages.LoginPage;
 import pages.MainPage;
 
@@ -16,7 +16,7 @@ public class ParentTest {
     public WebDriver webDriver;
     protected MainPage mainPage;
     protected LoginPage loginPage;
-    protected OrderFormPage orderFormPage;
+    protected InquiryPage inquiryPage;
     protected CustomerPage customerPage;
 
     @Before
@@ -29,7 +29,7 @@ public class ParentTest {
 
         mainPage = new MainPage(webDriver);
         loginPage = new LoginPage(webDriver);
-        orderFormPage = new OrderFormPage(webDriver);
+        inquiryPage = new InquiryPage(webDriver);
         customerPage = new CustomerPage(webDriver);
     }
 

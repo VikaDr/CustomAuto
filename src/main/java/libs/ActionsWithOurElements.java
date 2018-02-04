@@ -114,7 +114,7 @@ public class ActionsWithOurElements {
             logErrorAndStopTest();
         }
     }
-    public static void moveToElemAndClick(WebDriver driver, WebElement element) {
+/*    public static void moveToElemAndClick(WebDriver driver, WebElement element) {
         try {
             Actions actions = new Actions(driver);
             actions.moveToElement(element).build().perform();
@@ -123,6 +123,18 @@ public class ActionsWithOurElements {
             logErrorAndStopTest();
         }
 
+    }*/
+    public static void moveToElemAndClick(WebDriver webDriver, WebElement element, WebElement element2) {
+        try {
+            Actions actions = new Actions(webDriver);
+            actions.moveToElement(element).build().perform();
+            clickOnElement(element2);
+            logger.info("Find " + webDriver);
+        } catch (Exception e) {
+            logErrorAndStopTest();
+        }
     }
+
+
 }
 
