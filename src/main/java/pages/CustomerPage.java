@@ -29,13 +29,21 @@ public class CustomerPage extends ParentPage{
     @FindBy(xpath = ".//*[text()='Password was updated']")
     private WebElement conformationMessage;
 
+    @FindBy(name = "userName")
+    private WebElement userName;
+
+    @FindBy(xpath = ".//*[text()='Update profile']")
+    private WebElement updateProfile;
+
+    @FindBy(xpath = ".//*[text()='Contact information was updated']")
+    private WebElement updatingContact;
+
     public CustomerPage(WebDriver webDriver){
         super(webDriver, "/dashboard/profile");
     }
 
     public void chooseCustomerMenu(){
         moveToElemAndClick(webDriver,hoverOnElem,optionInHoverMenu);
-
         }
 
     public void inputOldPassword(String pass){
@@ -56,6 +64,18 @@ public class CustomerPage extends ParentPage{
 
     public boolean isConfirmationMessagePresent(){
         return isElementPresent(conformationMessage);
+    }
+
+    public void inputNewUserName(String name){
+        enterTextIntoInput(userName, name);
+    }
+
+    public void clickOnUpdateProfileButton(){
+        clickOnElement(updateProfile);
+    }
+
+    public boolean isUpdatingContactMessagePresent(){
+        return isElementPresent(updatingContact);
     }
 
 

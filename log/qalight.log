@@ -547,3 +547,70 @@
 2018-04-02 15:00:32   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (32d5b9ed6273731e0b696271606f2306)] -> xpath: .//*[text()='English 101']]
 2018-04-02 15:00:32   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (32d5b9ed6273731e0b696271606f2306)] -> xpath: .//*[text()='Place Free Inquiry']]
 2018-04-02 15:00:35   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-04-02 15:23:11   INFO [pages.LoginPage] : Login page was opened
+2018-04-02 15:23:11   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (fc406513e726d3deee73370ae767d4f6)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-04-02 15:23:11   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (fc406513e726d3deee73370ae767d4f6)] -> name: email]
+2018-04-02 15:23:11   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (fc406513e726d3deee73370ae767d4f6)] -> name: password]
+2018-04-02 15:23:11   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (fc406513e726d3deee73370ae767d4f6)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-04-02 15:23:13   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-04-02 15:23:13   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (fc406513e726d3deee73370ae767d4f6)] -> xpath: .//*[@href='/dashboard/profile']]
+2018-04-02 15:23:13   INFO [ActionsWithOurElements] : Find ChromeDriver: chrome on XP (fc406513e726d3deee73370ae767d4f6)
+2018-04-02 15:23:13   INFO [ActionsWithOurElements] : CustomTest was inputed in to input[[ChromeDriver: chrome on XP (fc406513e726d3deee73370ae767d4f6)] -> name: userName]
+2018-04-02 15:23:13   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (fc406513e726d3deee73370ae767d4f6)] -> xpath: .//*[text()='Update profile']]
+2018-04-02 15:23:14   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-04-02 15:39:37   INFO [pages.LoginPage] : Login page was opened
+2018-04-02 15:39:37   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (f37bdc6125d64a0007efff991766e08d)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-04-02 15:39:37   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (f37bdc6125d64a0007efff991766e08d)] -> name: email]
+2018-04-02 15:39:37   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (f37bdc6125d64a0007efff991766e08d)] -> name: password]
+2018-04-02 15:39:38   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (f37bdc6125d64a0007efff991766e08d)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-04-02 15:39:38   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-04-02 15:39:39   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (f37bdc6125d64a0007efff991766e08d)] -> xpath: .//*[@href='/dashboard/discounts']]
+2018-04-02 15:39:39   INFO [ActionsWithOurElements] : Find ChromeDriver: chrome on XP (f37bdc6125d64a0007efff991766e08d)
+2018-04-02 15:42:47   INFO [pages.LoginPage] : Login page was opened
+2018-04-02 15:42:47   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (13298860d17544a90f092db5309d2b49)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-04-02 15:42:47   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (13298860d17544a90f092db5309d2b49)] -> name: email]
+2018-04-02 15:42:47   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (13298860d17544a90f092db5309d2b49)] -> name: password]
+2018-04-02 15:42:48   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (13298860d17544a90f092db5309d2b49)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-04-02 15:42:49   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-04-02 15:42:49   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (13298860d17544a90f092db5309d2b49)] -> xpath: .//*[@href='/dashboard/discounts']]
+2018-04-02 15:42:49   INFO [ActionsWithOurElements] : Find ChromeDriver: chrome on XP (13298860d17544a90f092db5309d2b49)
+2018-04-02 15:42:49   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-04-02 15:43:50   INFO [pages.LoginPage] : Login page was opened
+2018-04-02 15:43:50   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (1f8048accce51c2071f6188e7bc913cc)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-04-02 15:43:51   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (1f8048accce51c2071f6188e7bc913cc)] -> name: email]
+2018-04-02 15:43:51   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (1f8048accce51c2071f6188e7bc913cc)] -> name: password]
+2018-04-02 15:43:51   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (1f8048accce51c2071f6188e7bc913cc)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-04-02 15:43:52   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-04-02 15:43:52   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (1f8048accce51c2071f6188e7bc913cc)] -> xpath: .//*[text()='Free Inquiry']]
+2018-04-02 15:43:52   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (1f8048accce51c2071f6188e7bc913cc)] -> xpath: .//*[text()='Type of paper']/../div]
+2018-04-02 15:43:53   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (1f8048accce51c2071f6188e7bc913cc)] -> xpath: .//*[text()='Essay (any type)']]
+2018-04-02 15:43:53   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (1f8048accce51c2071f6188e7bc913cc)] -> xpath: .//*[text()='Discipline']/../div]
+2018-04-02 15:43:54   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (1f8048accce51c2071f6188e7bc913cc)] -> xpath: .//*[text()='English 101']]
+2018-04-02 15:43:54   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (1f8048accce51c2071f6188e7bc913cc)] -> xpath: .//*[text()='Place Free Inquiry']]
+2018-04-02 15:43:56   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-04-02 15:44:17   INFO [pages.LoginPage] : Login page was opened
+2018-04-02 15:44:17   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (83a1f27864a1d3797c212a87e06205ca)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-04-02 15:44:17   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (83a1f27864a1d3797c212a87e06205ca)] -> name: email]
+2018-04-02 15:44:17   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (83a1f27864a1d3797c212a87e06205ca)] -> name: password]
+2018-04-02 15:44:18   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (83a1f27864a1d3797c212a87e06205ca)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-04-02 15:44:19   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-04-02 15:44:19   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (83a1f27864a1d3797c212a87e06205ca)] -> xpath: .//*[@href='/dashboard/profile']]
+2018-04-02 15:44:19   INFO [ActionsWithOurElements] : Find ChromeDriver: chrome on XP (83a1f27864a1d3797c212a87e06205ca)
+2018-04-02 15:44:19   INFO [ActionsWithOurElements] : CustomTest was inputed in to input[[ChromeDriver: chrome on XP (83a1f27864a1d3797c212a87e06205ca)] -> name: userName]
+2018-04-02 15:44:19   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (83a1f27864a1d3797c212a87e06205ca)] -> xpath: .//*[text()='Update profile']]
+2018-04-02 15:44:20   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-04-02 15:44:36   INFO [pages.LoginPage] : Login page was opened
+2018-04-02 15:44:36   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (535d7f141b1c73570c1be83499d11e82)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-04-02 15:44:36   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (535d7f141b1c73570c1be83499d11e82)] -> name: email]
+2018-04-02 15:44:36   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (535d7f141b1c73570c1be83499d11e82)] -> name: password]
+2018-04-02 15:44:36   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (535d7f141b1c73570c1be83499d11e82)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-04-02 15:44:37   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-04-02 15:44:37   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (535d7f141b1c73570c1be83499d11e82)] -> xpath: .//*[@href='/dashboard/discounts']]
+2018-04-02 15:44:37   INFO [ActionsWithOurElements] : Find ChromeDriver: chrome on XP (535d7f141b1c73570c1be83499d11e82)
+2018-04-02 15:44:37   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-04-02 15:44:52   INFO [pages.LoginPage] : Login page was opened
+2018-04-02 15:44:52   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (f1ae29c6ada923a9b05a78dfe73714c7)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-04-02 15:44:53   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (f1ae29c6ada923a9b05a78dfe73714c7)] -> name: email]
+2018-04-02 15:44:53   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (f1ae29c6ada923a9b05a78dfe73714c7)] -> name: password]
+2018-04-02 15:44:53   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (f1ae29c6ada923a9b05a78dfe73714c7)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-04-02 15:44:54   INFO [ActionsWithOurElements] : Is element present ? - true

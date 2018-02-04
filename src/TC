@@ -30,12 +30,10 @@ Step to reproduce:
 4. Кликнуть на кнопку "Free Inquiry".
 5. Заполнить обязательные поля формы "Type of paper" и "Discipline".
 6. Кликнуть на кнопку "Place Free Inquiry"
-7. Кликнуть на кнопке "My Orders".
-8. Проверить создался ли ордер с именем "Writer’s choice".
 
 Expected result:
 
-Ордер отображается в списке ордеров.
+Выполнился редирект на страницу списка ордеров. Ордер отображается в списке.
 
 ==========================================================================================
 
@@ -59,3 +57,50 @@ Step to reproduce:
 Expected result:
 
 Отображается сообщение (xpath = ".//*[text()='Password was updated']").
+
+==========================================================================================
+
+TC_04: Изменение имени пользователя
+
+Add. info:
+
+Войти на страницу https://www.customwritings.com/dashboard/authorization/
+
+Step to reproduce:
+1. Кликнуть на таб "Returning customer"
+2. Ввести корректные данные уже существующего, зарегистрированного пользователя.
+В поле Email (name = "email"): 1@i.ua, в поле Password (name = "password"): 111111.
+3. Кликнуть по кнопке "Sign in".
+4. Навести мышку на аватар пользователя (id = "UserBlockWhois__avatar")
+5. Выбрать с меню пункт (xpath=.//*[@href="/dashboard/profile"])
+6. Кликнуть в поле (name="userName") и ввести новое имя пользователя.
+7. Кликнуть на кнопку (xpath = ".//*[text()='Update profile']")
+
+Expected result:
+
+Отображается сообщение (xpath = ".//*[text()='Contact information was updated']").
+
+==========================================================================================
+
+TC_05: Проверка наличия lifetime скидки у пользователя
+
+Add. info:
+
+Войти на страницу https://www.customwritings.com/dashboard/authorization/
+
+Step to reproduce:
+1. Кликнуть на таб "Returning customer"
+2. Ввести корректные данные уже существующего, зарегистрированного пользователя.
+В поле Email (name = "email"): 1@i.ua, в поле Password (name = "password"): 111111.
+3. Кликнуть по кнопке "Sign in".
+4. Навести мышку на аватар пользователя (id = "UserBlockWhois__avatar")
+5. Выбрать с меню пункт (xpath=.//*[@href="/dashboard/discounts"])
+
+Expected result:
+
+Отображается информация о наличии у пользователя  lifetime скидки.
+Если на странице присутствует знак безконечности (xpath = ".//*[@class='DiscountsForest__birds-bird-message-infinity']"),
+значит lifetime скидка доступна.
+
+
+
