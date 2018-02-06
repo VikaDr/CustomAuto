@@ -1,6 +1,5 @@
 package libs;
 
-import org.openqa.selenium.By;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.Select;
 import org.apache.log4j.Logger;
@@ -99,12 +98,6 @@ public class ActionsWithOurElements {
         }
     }
 
-//    public static void selectOptionsInDropDown(WebElement select, WebElement option){
-//        clickOnElement(select);
-//        clickOnElement(option);
-//
-//    }
-
     public static void selectOptionsInDropDown(WebElement selectDropDown, String textInDropdown){
         try {
             Select options = new Select(selectDropDown);
@@ -114,16 +107,7 @@ public class ActionsWithOurElements {
             logErrorAndStopTest();
         }
     }
-/*    public static void moveToElemAndClick(WebDriver driver, WebElement element) {
-        try {
-            Actions actions = new Actions(driver);
-            actions.moveToElement(element).build().perform();
-            logger.info("Find " + driver);
-        }catch (Exception e){
-            logErrorAndStopTest();
-        }
 
-    }*/
     public static void moveToElemAndClick(WebDriver webDriver, WebElement element, WebElement element2) {
         try {
             Actions actions = new Actions(webDriver);

@@ -614,3 +614,9 @@
 2018-04-02 15:44:53   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (f1ae29c6ada923a9b05a78dfe73714c7)] -> name: password]
 2018-04-02 15:44:53   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (f1ae29c6ada923a9b05a78dfe73714c7)] -> xpath: .//*/button[contains(text(),'Sign')]]
 2018-04-02 15:44:54   INFO [ActionsWithOurElements] : Is element present ? - true
+2018-06-02 19:25:14   INFO [pages.LoginPage] : Login page was opened
+2018-06-02 19:25:14   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (d1a985e33ef2aaef9b149d138c691d89)] -> xpath: .//*/button[contains(text(), 'Returning customer')]]
+2018-06-02 19:25:15   INFO [ActionsWithOurElements] : 1@i.ua was inputed in to input[[ChromeDriver: chrome on XP (d1a985e33ef2aaef9b149d138c691d89)] -> name: email]
+2018-06-02 19:25:15   INFO [ActionsWithOurElements] : 111111 was inputed in to input[[ChromeDriver: chrome on XP (d1a985e33ef2aaef9b149d138c691d89)] -> name: password]
+2018-06-02 19:25:15   INFO [ActionsWithOurElements] : Element clicked [[ChromeDriver: chrome on XP (d1a985e33ef2aaef9b149d138c691d89)] -> xpath: .//*/button[contains(text(),'Sign')]]
+2018-06-02 19:25:16   INFO [ActionsWithOurElements] : Is element present ? - true
